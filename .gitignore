@@ -1,0 +1,12 @@
+*.DS_*
+# node:
+node_modules
+
+
+#log
+/log/
+
+#eclipse
+*.classpath
+*.project
+.settings
